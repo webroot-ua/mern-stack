@@ -4,7 +4,9 @@ ____
 ## Create database 
 ```
 Create a free account for MongoDB Atlas https://account.mongodb.com/account/register
-Read the chapter "Connecting to MongoDB Atlas" in the manual https://www.mongodb.com/languages/mern-stack-tutorial
+Read the chapter "Connecting to MongoDB Atlas" in the manual 
+https://www.mongodb.com/languages/mern-stack-tutorial
+
 Copy the connection string!
 ```
 ## Install
