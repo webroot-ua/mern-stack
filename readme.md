@@ -30,9 +30,17 @@ If you are using hosting:
 Go to https://cloud.mongodb.com -> Security -> Network Access and press button "Add IP Address".
 In the window that opens, click the button "Allow Access from Anywhere".
 ```
-## Run
+## Running locally
 ```
 npm run start
+```
+## Running on hosting 
+```
+Install pm2 to server:
+sudo npm install -g pm2
+
+Start project command:
+pm2 start npm -- start
 ```
   
 ____
