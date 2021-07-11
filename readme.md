@@ -24,11 +24,9 @@ Put connection string to the file config/default.json - set parameter "mongoUri"
 Set parameters "port": "80" and "baseUrl": "http:mydomen.com" if use hosting.
 Set "jwtSecret" as desired.
 ```
-## Server
+## Run
 ```
+npm run start
 ```
-```
-
-```
-   
+  
 ____
