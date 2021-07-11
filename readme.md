@@ -41,6 +41,9 @@ sudo npm install -g pm2
 
 Start project command:
 pm2 start npm -- start
+
+Stop server command:
+pm2 stop 0
 ```
   
 ____
