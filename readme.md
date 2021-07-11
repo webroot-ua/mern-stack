@@ -20,7 +20,7 @@ nano production.json
 ```
 ## Configuration
 ```
-Put connection string to the file config/default.json - set parameter "mongoUri" for database connection.
+Put connection string to the file config/production.json - set parameter "mongoUri" for database connection.
 Set parameters "port": "80" and "baseUrl": "http:mydomen.com" if use hosting.
 Set "jwtSecret" as desired.
 ```
