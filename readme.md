@@ -24,6 +24,12 @@ Put connection string to the file config/production.json - set parameter "mongoU
 Set parameters "port": "80" and "baseUrl": "http:mydomen.com" if use hosting.
 Set "jwtSecret" as desired.
 ```
+## mongoDB 
+```
+If you are using hosting: 
+Go to https://cloud.mongodb.com -> Security -> Network Access and press button "Add IP Address".
+In the window that opens, click the button "Allow Access from Anywhere".
+```
 ## Run
 ```
 npm run start
