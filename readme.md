@@ -1,4 +1,6 @@
 # mern-stack - Fullstack app (Mongo, Express, React, Node)
+### Implementation of registration and authorization by JWT token. Appliaction for shortening links and analytics.
+
 ## How to run this project
 ____
 ## Create database 
