@@ -1,4 +1,4 @@
-# mern-stack
+# mern-stack - Fullstack app (Mongo, Express, React, Node)
 ## How to run this project
 ____
 ## Create database 
